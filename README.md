@@ -1,5 +1,6 @@
 # WAB_AddShapefile
-Web AppBuilder for ArcGIS widget for uploading shapefiles to the web map as a feature layer operational layers
+Web AppBuilder for ArcGIS widget for uploading shapefiles to the web map as a feature layer operational layers.
+Currently, this widget essentially wraps Esri's javascript sample in a WAB widget. [The js sample can be found here.](https://developers.arcgis.com/javascript/jssamples/portal_addshapefile.html)
 
 To install:
 Install and configure Web AppBuilder Developer Edition and create a new app. See https://developers.arcgis.com/web-appbuilder/ for details.
